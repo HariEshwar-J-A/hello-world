@@ -57,6 +57,7 @@ z=s[i].totatt;
 z/=noofdays;
 printf("\n percentage of attendance is %.2f%",z*100);
 }
+goto yes;
 break;
 case 3:
 break;
