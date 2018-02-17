@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+#include<string.h>
 struct stud
 {
 char name[50],p_name[50];
